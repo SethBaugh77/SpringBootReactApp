@@ -1,2 +1,3 @@
 # SpringBootReactApp
-Just an app to do some stuff 
+Simple React FrontEnd which makes requests to a Springboot rest API. 
+
